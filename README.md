@@ -1,4 +1,4 @@
-Step-by-step: How to run Django Project "Hotel" 
+## Step-by-step: How to run Django Project "Hotel" 
 ### Create venv (Windows)
 python -m venv venv
 venv\Scripts\activate
