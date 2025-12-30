@@ -11,7 +11,7 @@ python manage.py migrate
 
 #### Step 3: Create Admin superuser (optional)
 python manage.py createsuperuser
-### Follow prompts to create username, email and password
+Follow prompts to create username, email and password
 
 #### Step4: Run development server
 python manage.py runserver
